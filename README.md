@@ -1,0 +1,1 @@
+ This application allows you to search for and view weather information for any city. It displays current weather data by accessing user's location and supports both Celsius and Fahrenheit temperature units. 
